@@ -1,0 +1,3 @@
+Logowanie do aplikacji:
+- użytkownik to adres email
+- hasło musi sełniać normy
