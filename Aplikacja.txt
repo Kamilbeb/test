@@ -2,3 +2,4 @@ def logowanie():
 	print("Podaj nazwę użytkownika")
 	print("Podaj hasło")
 	print("Kliknij przycisk")
+print("Dopisane")
