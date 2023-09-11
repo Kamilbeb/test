@@ -4,6 +4,7 @@ def logowanie():
 	print("Kliknij przycisk")
 print("Dopisane")
 def logowanieMicrosoft():
+def logowanieGoogle():
 	print("Podaj nazwę użytkownika")
 	print("Podaj hasło")
 	print("Kliknij przycisk")
